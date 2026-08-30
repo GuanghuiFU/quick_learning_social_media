@@ -1,0 +1,4 @@
+httpx
+pydantic-settings
+pyobjc-framework-Vision
+pytest
